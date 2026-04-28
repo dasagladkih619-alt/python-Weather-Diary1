@@ -1,6 +1,6 @@
 # Weather Diary ☀️🌧️
 
-**Author:** Ivan Petrov
+**Author:** Dash Gladkih
 
 ## Description
 A desktop GUI application for tracking daily weather.  
