@@ -23,5 +23,5 @@ All data is saved/loaded from a JSON file.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-diary.git
+   git clone https://github.com/dasagladkih619-alt/weather-diary1.git
    cd weather-diary
